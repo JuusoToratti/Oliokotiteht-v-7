@@ -1,0 +1,9 @@
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/shakkikello.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/edit_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/list_install_components.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/install.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/install/local.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/install/strip.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/shakkikello_autogen_timestamp_deps.dir
+C:/Users/jusse/Documents/QT harjoitukset/shakkikello/build/CMakeFiles/shakkikello_autogen.dir
